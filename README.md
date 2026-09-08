@@ -175,7 +175,7 @@ The project is ready to deploy on Render or Railway (Procfile + runtime.txt incl
 
 ## Author
 
-Harshal Munot — B.Tech CSE (AI & DS), Parul University
+Kavya Jain — B.Tech CSE (AI & DS), Parul University
 
 ---
 
